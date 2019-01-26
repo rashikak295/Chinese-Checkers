@@ -1,0 +1,25 @@
+{
+  "name": "isa",
+  "version": "1.0.0",
+  "description": "isa project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spyashu/clisev.git"
+  },
+  "author": "ashish and rashika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spyashu/clisev/issues"
+  },
+  "homepage": "https://github.com/spyashu/clisev#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "socket.io": "^2.0.4",
+    "winston": "^2.4.0"
+  }
+}
